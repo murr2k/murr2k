@@ -1,28 +1,67 @@
-# 👋 Hi, I'm Murray Kopit
+# 👨‍🚀 Murray Kopit
 
-I'm a systems architect and field-theoretic cognition researcher. I build embedded agents and model emergent minds.
+**Firmware engineer / Embedded architect / AI-native systems developer**  
+Building real-time systems for space, energy, and anything with a bootloader and a pulse.
 
-## 🧠 Core Research Interests
+---
 
-- **Survival Recursion Theory** — Sentience as recursive symbolic binding.
-- **Entropy Momentum & Semantic Mass** — Cognition modeled as topological flow.
-- **Proper Space Kinematics** — A geometric model of spatial resistance and gravitational emergence.
+## 🧬 About Me
 
-## 🔧 Engineering Background
+```yaml
+name: Murray Kopit
+location: Vancouver, BC, Canada
+specialties:
+  - Bare-metal C
+  - Real-time embedded systems (RTOS, ISR, DMA, CAN, Modbus)
+  - Satellite & sensor firmware (Amazon Kuiper, SST Wireless)
+  - IoT energy monitoring & smart metering
+  - Embedded simulation & test harness design
+  - AI-augmented development pipelines
+philosophy: "If it blinks, I can debug it."
+```
 
-25+ years in embedded systems:
-- Bare-metal firmware (C)
-- Protocols: CAN, I2C, SPI, UART
-- IoT sensor architecture and real-time control
-- System optimization for DFT/DFR
+---
 
-## 🎯 Vision
+## 🔧 Current Projects
 
-Build agentic systems with real continuity.  
-Unify artificial architectures with biological imperatives.  
-Engineer the bridge between cognition and code.
+### [Linknode](https://linknode.com)
+> AI-augmented IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.  
+> Built cloud-native infrastructure with real-time dashboards, smart meter API integration, and mobile control.
 
-> “Firmware meets first principles. Recursive agents, emergent minds.”
+### [EAE_Firmware](https://github.com/murr2k/EAE_Firmware)
+> Embedded system simulation for PID-controlled cooling with state machine, CANBus logic, and CI/CD.  
+> GTest coverage, CLI sim, build automation—delivered for an industrial firmware challenge.
+
+### [android-app-dev](https://github.com/murr2k/android-app-dev)
+> Zero-to-production Android development using AI tooling.  
+> Fully themed Material 3 app with real-time energy visualization, NFC integration, and CI/CD via Codemagic.
+
+---
+
+## 🚀 Experience Snapshot
+
+- Firmware architect for orbital communication systems (Amazon Project Kuiper)
+- Patents in sensor geometry, TPMS, and wireless control
+- Designed OTA, bootloader, and MAC layer protocols for ARM Cortex-M platforms
+- Delivered field-tested control firmware in power systems, lighting, and diagnostics
+- Built CI/test pipelines to validate firmware at scale with simulated I/O
+- AI-literate: build agent-assisted dev environments, not just talk about them
+
+---
+
+## 📢 Connect
+
+- 🌐 [https://murraykopit.com](https://murraykopit.com)
+- 📬 murr2k@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/murraykopit)
+- 🌍 [linknode.com](https://linknode.com)
+- 🧠 [GitHub Projects](https://github.com/murr2k?tab=repositories)
+
+---
+
+> “Shipping tested, maintainable firmware is easy.  
+> Just do 10,000 hours of deep work and try not to invent a protocol.”
+
 
 ---
 
