@@ -2,7 +2,7 @@
 
 **Firmware engineer / Embedded architect / AI-native systems developer**  
 Building real-time systems for space, energy, and anything with a bootloader and a pulse.
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 ---
 
 ## 🧬 About Me
