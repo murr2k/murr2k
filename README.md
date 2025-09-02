@@ -28,9 +28,9 @@ philosophy: "If it blinks, I can debug it."
 > AI-augmented IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.  
 > Built cloud-native infrastructure with real-time dashboards, smart meter API integration, and mobile control.
 
-### [EAE_Firmware](https://github.com/murr2k/EAE_Firmware)
-> Embedded system simulation for PID-controlled cooling with state machine, CANBus logic, and CI/CD.  
-> GTest coverage, CLI sim, build automation—delivered for an industrial firmware challenge.
+> ### [ADIN2111](https://github.com/murr2k/ADIN2111)
+> An enhanced Linux driver for the Analog Devices ADIN2111 dual-port 10BASE-T1L Ethernet switch.
+> The driver properly leverages the chip's integrated hardware switching capabilities, eliminating the need for software bridging.
 
 ### [android-app-dev](https://github.com/murr2k/android-app-dev)
 > Zero-to-production Android development using AI tooling.  
