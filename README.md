@@ -30,7 +30,7 @@ philosophy: "If it blinks, I can debug it."
 
 ### [ADIN2111](https://github.com/murr2k/ADIN2111)
 > An enhanced Linux driver for the Analog Devices ADIN2111 dual-port 10BASE-T1L Ethernet switch.
-> The driver properly leverages the chip's integrated hardware switching capabilities, eliminating the need for software bridging.
+> > The driver properly leverages the chip's integrated hardware switching capabilities, eliminating the need for software bridging.
 
 ### [android-app-dev](https://github.com/murr2k/android-app-dev)
 > Zero-to-production Android development using AI tooling.  
