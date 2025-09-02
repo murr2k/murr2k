@@ -28,7 +28,7 @@ philosophy: "If it blinks, I can debug it."
 > AI-augmented IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.  
 > Built cloud-native infrastructure with real-time dashboards, smart meter API integration, and mobile control.
 
-> ### [ADIN2111](https://github.com/murr2k/ADIN2111)
+### [ADIN2111](https://github.com/murr2k/ADIN2111)
 > An enhanced Linux driver for the Analog Devices ADIN2111 dual-port 10BASE-T1L Ethernet switch.
 > The driver properly leverages the chip's integrated hardware switching capabilities, eliminating the need for software bridging.
 
