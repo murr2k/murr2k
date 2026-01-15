@@ -24,7 +24,7 @@ philosophy: "If it blinks, I can debug it."
 
 ## 🔧 Current Projects
 
-### [Linknode](https://linknode.com)
+### [Linknode Home Power Monitor](https://linknode.com)
 > AI-augmented IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.  
 > Built cloud-native infrastructure with real-time dashboards, smart meter API integration, and mobile control.
 
