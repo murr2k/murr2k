@@ -1,11 +1,11 @@
-# 👨‍🚀 Murray Kopit
+# Murray Kopit
 
 **Firmware engineer / Embedded architect / AI-native systems developer**  
 Building real-time systems for space, energy, and anything with a bootloader and a pulse.
 
 ---
 
-## 🧬 About Me
+## About Me
 
 ```yaml
 name: Murray Kopit
@@ -22,7 +22,7 @@ philosophy: "If it blinks, I can debug it."
 
 ---
 
-## 🔧 Current Projects
+## Current Projects
 
 ### [Linknode Home Power Monitor](https://linknode.com)
 > AI-augmented IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.  
@@ -38,7 +38,7 @@ philosophy: "If it blinks, I can debug it."
 
 ---
 
-## 🚀 Experience Snapshot
+## Experience Snapshot
 
 - Firmware architect for orbital communication systems (Amazon Project Kuiper)
 - Patents in sensor geometry, TPMS, and wireless control
@@ -49,7 +49,7 @@ philosophy: "If it blinks, I can debug it."
 
 ---
 
-## 📢 Connect
+## Connect
 
 - 🌐 [https://murraykopit.com](https://murraykopit.com)
 - 📬 murr2k@gmail.com
