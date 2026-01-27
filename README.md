@@ -26,7 +26,7 @@ philosophy: "If it blinks, I can debug it."
 ## Current Projects
 
 ### [Linknode Home Power Monitor](https://linknode.com)
-> AI-augmented IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.
+> AI-augmented development of an IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.
 > Zero-framework frontend (pure HTML/CSS/vanilla JS, ~50KB bundle, <1s TTI, 95+ Lighthouse) with hand-coded SVG gauges and CSS animations.
 > Python/Flask + InfluxDB time-series backend, Grafana dashboards, and globally deployed via Docker on Fly.io with Cloudflare edge. 
 
