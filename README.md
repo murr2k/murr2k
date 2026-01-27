@@ -59,11 +59,11 @@ philosophy: "If it blinks, I can debug it."
 
 ## Connect
 
-- 🌐 [https://murraykopit.com](https://murraykopit.com)
 - 📬 murr2k@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/murraykopit)
-- 🌍 [linknode.com](https://linknode.com)
+- 🌍 [linknode.com technology stack demo](https://linknode.com)
 - 🧠 [GitHub Projects](https://github.com/murr2k?tab=repositories)
+- 🆔 [ORCID Research Profile](https://orcid.org/0000-0002-2198-2934)
 
 ---
 
