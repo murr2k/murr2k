@@ -1,6 +1,6 @@
 # Murray Kopit
 
-**Firmware engineer / Embedded architect / AI-native systems developer**  
+**Firmware developer / Embedded architect / AI-native systems developer**  
 Building real-time systems for space, energy, and anything with a bootloader and a pulse.
 
 ---
