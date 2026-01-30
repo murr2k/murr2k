@@ -82,6 +82,123 @@ philosophy: "If it blinks, I can debug it."
 📄 Licensed under [CC0 1.0 Universal](http://creativecommons.org/publicdomain/zero/1.0/). Free to use, remix, adapt, and build upon without restriction.
 
 ---
+Resume
+
+# MURRAY KOPIT
+
+**Principal Firmware Developer | Embedded Architect | Systems Researcher**  
+Surrey, BC | 604-366-6334 | emailto:murr2k@gmail.com  
+**Portfolio:** [github.com/murr2k](https://github.com/murr2k) | [Linkedin](linkedin.com/in/murr2k) | [murraykopit.com](https://murraykopit.com) | [linknode.com](https://linknode.com) | [ORCID](https://orcid.org/0000-0002-2198-2934)   
+*USA/Canada Dual Citizen | Nexus Holder*
+
+---
+
+## PROFESSIONAL SUMMARY
+
+Principal Firmware Developer and Independent Researcher with over 30 years of experience. Expert in **C for Cortex-M microcontrollers** and bare-metal real-time control systems, specializing in safety-critical platforms for power, industrial, and wireless infrastructure. My work is unified by a process-first ontology, treating physical processes as information-bearing substrates from **Amazon Project Kuiper** satellite MAC layers to FPGA-driven power modulation and autonomous reasoning architectures.
+
+---
+
+## TECHNICAL EXPERTISE
+
+* **Embedded & Systems:** C, ARM Cortex-M, RTOS, Real-time bare-metal firmware, PIC32, Linux, Modbus, BACnet, RS-485, DMA, SPI, I2C, UART, ADC/DAC, CAN, GPIO.
+* **Wireless & Comms:** BLE (AoA), Sub-GHz, MQTT, TCP/IP, low-latency protocol design, Satellite MAC layers.
+* **Applied AI & Modeling:** Hybrid Reasoning Systems, MCTS, Symbolic Heuristics, MATLAB-accelerated solvers, Heuristic learning.
+* **Hardware & Robotics:** Sensor fusion, electromechanical transducers, encoders, strain gauges, capacitive sensors, real-time motion control, FPGA (HDL), logic analyzers, oscilloscopes.
+* **Tooling:** Git, CI/CD pipelines, Docker, agentic AI development automation, QEMU simulation.
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
+### **Principal | Linknode Technical & Design Service**
+
+*Surrey, BC | 2025 – Present*
+
+* Provides embedded firmware development and modernization services for OEM clients in industrial and environmental control.
+* Refactoring legacy PIC32 firmware bridging Modbus and BACnet protocols for gas detection systems.
+* Focuses on deterministic task scheduling, UART/RS-485 communication reliability, and system safety enhancements.
+
+### **Contract SDE III | Amazon Project Kuiper**
+
+*Redmond, WA | Nov 2024 – May 2025*
+
+* Developed bare-metal C firmware for satellite communication Media Access Controllers (MAC) on Synopsys SoC platforms.
+* Architected QEMU-based simulation environments, reducing integration test cycles by 40%.
+* Led cross-disciplinary mission rehearsals as **Primary Mission Test Conductor** for the orbital validation of 27 satellites.
+
+### **Embedded Software Developer | PDE**
+
+*Burnaby, BC | Jul 2024 – Oct 2024*
+
+* Engineered microcontroller firmware for magnetic tubing analyzers with SPI/UART sensor arrays.
+* Built MQTT simulation pipelines for continuous test coverage and AWS telemetry integration.
+
+### **FW Lead / Engineering Manager | SST Wireless Inc**
+
+*Richmond, BC | Oct 2020 – Feb 2024*
+
+* Led firmware architecture for wireless Condition-Based Monitoring systems, achieving 5+ year battery life.
+* **Patent Pending:** Invented an auto-locating Tire Pressure Monitoring System using Bluetooth 5.1 Angle-of-Arrival spatial tracking.
+* Developed RTOS-based firmware for Goodyear, Michelin, New Flyer Industries, and Disney World.
+
+### **Embedded Systems Developer | Delta Controls**
+
+*Surrey, BC | 2015 – 2020*
+
+* Developed RTOS and Linux firmware for BACnet building automation systems.
+* Implemented CAN, DALI, and Smart Motor stacks and built automated hardware simulation platforms.
+
+---
+
+## RESEARCH & APPLIED INNOVATIONS
+
+### **Hybrid Reasoning & AI**
+
+* **Classical-Quantum Benchmark:** Developed an autonomous hybrid agent (MCTS + Symbolic Heuristics) that defeated a quantum-trained AlphaZero-style agent on the Tangled game variant. Published architecture and source code for real-time observability.
+* **Survival Recursion Theory:** Developed a naturalistic account of sentience, framing consciousness as a multi-scale survival-recursive phenomenon.
+
+### **Theoretical Physics**
+
+* **Proper Space Kinematics (PSK):** Author of an interpretive model of gravitation and cosmology reframing space as a uniformly densifying Euclidean substrate and time as densification.
+
+### **Selected Patents**
+
+* **Touch-Safe Power Distribution (Pending):** An FPGA-driven Switch Mode Power Supply modulator that detects leakage currents and carries data.
+* **Non-contact Envelope Counter (US Patent 5,221,837):** A laser triangulation distance sensor to count items in postal mailing trays.
+* **Contributor to:** Luminaire Control System (US 7,868,562), Uninterruptible Power Supply (US 5,982,652), and Distance Determination Device (US 4,766,323).
+
+---
+
+## EDUCATION & ADVANCED STUDIES
+
+* **Rochester Institute of Technology (RIT)** | Computer Engineering (Advanced Coursework) | 2011  
+Focused on Computer Organization, Hardware Description Language (HDL), and Applied Programming.
+
+
+* **University of British Columbia (UBC)** | Engineering Physics (Coursework) | 1992  
+Coursework in the intersection of theoretical physics and applied engineering.
+
+* **Monroe Community College (MCC)** | **A.S. Engineering Science** & **A.S. Mathematics** | 2009–2010  
+Computer Engineering concentration - 2-year transfer agreeement with RIT
+
+* **Certifications:** CompTIA A+, CompTIA Network+, FCC Amateur Radio (K2MUR)  
+
+* **Training:** Agile Development, Lean Manufacturing, RTOS Architecture, EMC Design.
+
+## RESEARCH & APPLIED INNOVATIONS
+
+### Hybrid Reasoning & AI
+
+* Tangled X-PRIZE Challenge Winner: Defeated the quantum-trained **AlphaZero** Amara agent on the Petersen game graph. Developed a classical hybrid agent integrating symbolic heuristics and MCTS that successfully navigated state-space complexity where quantum-trained models claimed advantage. (Awarded by Geordie Rose, Founder of D-Wave).
+
+* Survival Recursion Theory: 
+Developed a naturalistic account of sentience, framing consciousness as a multi-scale survival-recursive phenomenon spanning molecular and symbolic substrates.
+
+### Theoretical Physics
+
+* Proper Space Kinematics (PSK): Author of an interpretive model of gravitation reframing time as a uniform densification of a Euclidean substrate; provides a geometric ontology for gravitational emergence.
+---
 
 CV
 
