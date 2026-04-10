@@ -9,7 +9,7 @@ Building real-time systems for space, energy, and anything with a bootloader and
 
 ```yaml
 name: Murray Kopit
-location: Vancouver, BC, Canada
+location: Redmond, WA, USA
 specialties:
   - Bare-metal C & Linux systems programming
   - Real-time embedded systems (RTOS, ISR, DMA, CAN, Modbus, BACnet)
@@ -24,6 +24,10 @@ philosophy: "If it blinks, I can debug it."
 ---
 
 ## Current Projects
+
+### [Sensor Systems Research](https://meta.com)
+> As a software research engineer, I develop sensor system firmware for Meta's VR glasses
+> Extensive use of agentic AI technologies in engineering development workflows
 
 ### [Linknode Home Power Monitor](https://linknode.com)
 > AI-augmented development of an IoT energy platform with live telemetry, edge deployment, and full-stack visualizations.
