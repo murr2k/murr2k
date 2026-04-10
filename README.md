@@ -26,7 +26,7 @@ philosophy: "If it blinks, I can debug it."
 ## Current Projects
 
 ### [Sensor Systems Research](https://meta.com)
-> As a software research engineer, I develop sensor system firmware for Meta's VR glasses
+> As a software research engineer, I develop sensor system firmware for Meta's VR glasses. 
 > Extensive use of agentic AI technologies in engineering development workflows
 
 ### [Linknode Home Power Monitor](https://linknode.com)
