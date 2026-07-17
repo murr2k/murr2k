@@ -11,13 +11,13 @@ Building real-time systems for space, energy, and anything with a bootloader and
 name: Murray Kopit
 location: Redmond, WA, USA
 specialties:
-  - Bare-metal C & Linux systems programming
+  - Bare-metal C, Linux systems programming, AI Wrangler Extraordinaire
   - Real-time embedded systems (RTOS, ISR, DMA, CAN, Modbus, BACnet)
   - Network protocol stacks & packetized communications
   - Satellite & sensor firmware (Amazon Kuiper, SST Wireless)
   - IoT energy monitoring & smart metering
   - Embedded simulation & test harness design
-  - AI-augmented development pipelines
+  - AI-in-the-Loop Development Environments
 philosophy: "If it blinks, I can debug it."
 ```
 
