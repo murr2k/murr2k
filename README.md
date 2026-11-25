@@ -128,14 +128,6 @@ Principal Firmware Developer and Independent Researcher with over 30 years of ex
 * Agent-generated tests run as deterministic Python regression code, with every result checked against instrument readings, so physical measurement rather than a model is the ground truth.
 * Built the agent configuration and retrieval systems that make AI useful for firmware work, and published nearly 100 internal wiki articles on these techniques and infrastructure.
 
-### **Principal | Linknode Technical & Design Service**
-
-*Surrey, BC | 2025 – Present*
-
-* Provides embedded firmware development and modernization services for OEM clients in industrial and environmental control.
-* Refactoring legacy PIC32 firmware bridging Modbus and BACnet protocols for gas detection systems.
-* Focuses on deterministic task scheduling, UART/RS-485 communication reliability, and system safety enhancements.
-
 ### **Contributor | Agentics Foundation**
 
 *Remote | Jun 2025 – Present*
