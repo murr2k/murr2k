@@ -115,6 +115,19 @@ Principal Firmware Developer and Independent Researcher with over 30 years of ex
 
 ## PROFESSIONAL EXPERIENCE
 
+### **Firmware Software Engineer | Meta Reality Labs**
+
+*Sensors and Systems Research | Redmond, WA | Apr 2026 – Present*  
+*Contract engagement through Tundra Technical Solutions*
+
+* Develops embedded firmware for the STM32N6 (Cortex-M55) on bare metal and Zephyr, and on custom silicon: PDM microphone capture (MDF/GPDMA), USB audio, IMU sensors, and a multi-camera pipeline over MIPI CSI-2.
+* Delivered a series of firmware milestones for a research prototype, then moved to Meta's smart glasses program on the same team.
+* Directs AI coding agents through implementation: specifies and reviews drivers and register-level configuration, debugs link-layer faults with logic analyzer and protocol captures, and lands diffs through formal code review in a large multi-team codebase.
+* Authored 100,000+ lines of code in 10 languages in the first seven months, including an autonomous hardware-in-the-loop test bench and 15 developer tools for Linux and Windows.
+* **Hardware-in-the-Loop:** Built an autonomous edit-build-flash-test loop driven from Claude Code over MCP, with agents operating logic analyzers, serial consoles, JTAG/SWD probes, and SCPI bench instruments. Board files and netlists drive probe-point selection.
+* Agent-generated tests run as deterministic Python regression code, with every result checked against instrument readings, so physical measurement rather than a model is the ground truth.
+* Built the agent configuration and retrieval systems that make AI useful for firmware work, and published nearly 100 internal wiki articles on these techniques and infrastructure.
+
 ### **Principal | Linknode Technical & Design Service**
 
 *Surrey, BC | 2025 – Present*
@@ -123,13 +136,19 @@ Principal Firmware Developer and Independent Researcher with over 30 years of ex
 * Refactoring legacy PIC32 firmware bridging Modbus and BACnet protocols for gas detection systems.
 * Focuses on deterministic task scheduling, UART/RS-485 communication reliability, and system safety enhancements.
 
+### **Contributor | Agentics Foundation**
+
+*Remote | Jun 2025 – Present*
+
+* Contributes to a non-profit open-source foundation building tools, research, and education for agentic AI, with a community of over 100,000 practitioners.
+
 ### **Contract SDE III | Amazon Project Kuiper**
 
 *Redmond, WA | Nov 2024 – May 2025*
 
 * Developed bare-metal C firmware for satellite communication Media Access Controllers (MAC) on Synopsys SoC platforms.
 * Architected QEMU-based simulation environments, reducing integration test cycles by 40%.
-* Led cross-disciplinary mission rehearsals as **Primary Mission Test Conductor** for the orbital validation of 27 satellites.
+* Led cross-disciplinary mission rehearsals as **Primary Mission Test Conductor** for the orbital validation of 27 satellites in Amazon's first launch campaign.
 
 ### **Embedded Software Developer | PDE**
 
