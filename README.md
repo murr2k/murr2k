@@ -120,13 +120,12 @@ Principal Firmware Developer and Independent Researcher with over 30 years of ex
 *Sensors and Systems Research | Redmond, WA | Apr 2026 – Present*  
 *Contract engagement through Tundra Technical Solutions*
 
-* Develops embedded firmware for the STM32N6 (Cortex-M55) on bare metal and Zephyr, and on custom silicon: PDM microphone capture (MDF/GPDMA), USB audio, IMU sensors, and a multi-camera pipeline over MIPI CSI-2.
-* Delivered a series of firmware milestones for a research prototype, then moved to Meta's smart glasses program on the same team.
-* Directs AI coding agents through implementation: specifies and reviews drivers and register-level configuration, debugs link-layer faults with logic analyzer and protocol captures, and lands diffs through formal code review in a large multi-team codebase.
+* Firmware for the Cortex-M55 and custom SoCs on bare metal and Zephyr, and sensor research including PDM microphones, USB audio, IMU sensors, and a multi-camera pipelines.
+* Direct AI coding agents through the software development lifecycle: specify and review drivers and register-level configuration, debug link-layer faults with logic analyzer and protocol captures, and land diffs through formal code review in a large multi-team codebase.
 * Authored 100,000+ lines of code in 10 languages in the first seven months, including an autonomous hardware-in-the-loop test bench and 15 developer tools for Linux and Windows.
-* **Hardware-in-the-Loop:** Built an autonomous edit-build-flash-test loop driven from Claude Code over MCP, with agents operating logic analyzers, serial consoles, JTAG/SWD probes, and SCPI bench instruments. Board files and netlists drive probe-point selection.
+* **Hardware-in-the-Loop:** Built an autonomous edit-build-flash-test loop driven from Claude Code over MCP, enabling AI agents to operate logic analyzers, serial consoles, JTAG/SWD probes, and SCPI bench instruments, and analyze board files and netlists.
 * Agent-generated tests run as deterministic Python regression code, with every result checked against instrument readings, so physical measurement rather than a model is the ground truth.
-* Built the agent configuration and retrieval systems that make AI useful for firmware work, and published nearly 100 internal wiki articles on these techniques and infrastructure.
+* Built an agent configuration and graph-engineered memory system that makes AI useful for firmware work, and published nearly 100 internal wiki articles on these techniques and infrastructure.
 
 ### **Contributor | Agentics Foundation**
 
